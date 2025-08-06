@@ -1,3 +1,5 @@
 build
 dist
-src/__pycache__
+screenshoots
+src\__pycache__
+main.spec
