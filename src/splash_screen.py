@@ -20,7 +20,7 @@ class SplashScreen(QWidget):
         self.title.setFont(QFont("Arial", 16, QFont.Weight.Bold))
         self.title.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
-        self.design = QLabel("DESIGN BY EZEKIEL JOSEPH")
+        self.design = QLabel("DESIGN BY UMAR GADDAFI")
         self.design.setStyleSheet("color: white;")
         self.design.setFont(QFont("Arial", 14, QFont.Weight.Bold))
         self.design.setAlignment(Qt.AlignmentFlag.AlignCenter)
@@ -67,7 +67,7 @@ class SplashScreen(QWidget):
         self.status_label = QLabel("Status: Initializing")
         self.status_label.setStyleSheet("color: white; font-size: 12px;")
 
-        self.author_label = QLabel("Author: Joseph Ezekiel")
+        self.author_label = QLabel("Author: Umar Gaddafi")
         self.author_label.setStyleSheet("color: white; font-size: 12px;")
 
         bottom_layout = QHBoxLayout()
