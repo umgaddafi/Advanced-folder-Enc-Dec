@@ -29,7 +29,7 @@ To start using the application:
 
 ## 🖼️ Screenshots
 
-| Home Screen                          | Encryption View                           |
+| Splash Screen                          | Encryption View                           |
 | ------------------------------------ | ----------------------------------------- |
 | ![Splash Screen](screenshoots/splash.png) | ![Encrypting](screenshoots/encrypt.png) |
 
